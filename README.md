@@ -1,2 +1,1 @@
-# Test
-Playing with Git
+All about Cats.
